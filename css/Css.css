@@ -1,0 +1,12 @@
+
+    
+.jumbotron img{
+    display: flex;
+    float: left;
+}
+
+.jumbotron a {
+    background:dodgerblue;
+}
+
+
